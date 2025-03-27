@@ -1,4 +1,4 @@
-# kakao-auth-sender
+# kakao-auto-sender
 카카오톡 메시지 자동 전송기
 파이썬을 사용하여 검색대상자를 검색하소 message.txt 파일의 내용을 전송함
 - message.txt 에 발송할 문자 내용 작성
